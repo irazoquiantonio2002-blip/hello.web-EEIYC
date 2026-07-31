@@ -96,7 +96,7 @@
     const items = [
       'Instalaciones Eléctricas Industriales', 'Tableros y Subestaciones', 'Sistemas de Pararrayos',
       'Plantas de Emergencia', 'Mantenimiento Preventivo', 'Diagnóstico con Equipo Fluke',
-      'Cumplimiento NOM-001-SEDE', 'Automatización Industrial', 'Alta y Media Tensión',
+      'Cumplimiento NOM-001-SEDE', 'Automatización Industrial', 'Media y Baja Tensión',
       'Atención 24/7', 'Ingeniería Certificada', 'Seguridad Eléctrica'
     ];
     const full = [...items, ...items, ...items, ...items];
