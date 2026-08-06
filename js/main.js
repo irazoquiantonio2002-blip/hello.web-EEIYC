@@ -117,8 +117,7 @@
         return;
       }
 
-      // TODO: reemplazar con el número real de WhatsApp de EEIYC (formato 52XXXXXXXXXX)
-      const phone = '520000000000';
+      const phone = '5492471197609';
       const text  = encodeURIComponent(
         `Hola EEIYC ⚡\n\nSoy *${name}*.\nMe interesa: *${interest}*.\n\n${message}`
       );
