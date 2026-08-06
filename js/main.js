@@ -117,7 +117,7 @@
         return;
       }
 
-      const phone = '5492471197609';
+      const phone = '522471197609';
       const text  = encodeURIComponent(
         `Hola EEIYC ⚡\n\nSoy *${name}*.\nMe interesa: *${interest}*.\n\n${message}`
       );
